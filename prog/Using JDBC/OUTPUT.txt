@@ -1,0 +1,77 @@
+1. Insert Emp 
+ 2. Delete Emp 
+ 3. Display Acc to Name 
+ 4. Display All 
+ 5. Exit 
+
+Enter your choice
+4
+Employee deatils are as follows...
+Registered successfully
+Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+Connection successfull
+
+Name : atc	Age : 18	Dept :ISE	Salary :20000.0
+Name : ash	Age : 21	Dept :CSE	Salary :1000.0
+
+ 1. Insert Emp 
+ 2. Delete Emp 
+ 3. Display Acc to Name 
+ 4. Display All 
+ 5. Exit 
+
+Enter your choice
+1
+Enter the Employee Name : 
+Aakash
+Enter the Age : 
+20
+Enter the Dept : 
+ENG
+Enter the Salary : 
+25000
+Registered successfully
+Connection successfull
+
+Employee added successfully
+
+ 1. Insert Emp 
+ 2. Delete Emp 
+ 3. Display Acc to Name 
+ 4. Display All 
+ 5. Exit 
+
+Enter your choice
+4
+Employee deatils are as follows...
+Registered successfully
+Connection successfull
+
+Name : atc	Age : 18	Dept :ISE	Salary :20000.0
+Name : ash	Age : 21	Dept :CSE	Salary :1000.0
+Name : Aakash	Age : 20	Dept :ENG	Salary :25000.0
+
+ 1. Insert Emp 
+ 2. Delete Emp 
+ 3. Display Acc to Name 
+ 4. Display All 
+ 5. Exit 
+
+Enter your choice
+3
+Enter the Employee name to display its attributes : 
+atc
+Employee details...
+Registered successfully
+Connection successfull
+
+Name : atc	Age : 18	Dept :ISE	Salary :20000.0
+
+ 1. Insert Emp 
+ 2. Delete Emp 
+ 3. Display Acc to Name 
+ 4. Display All 
+ 5. Exit 
+
+Enter your choice
+5
